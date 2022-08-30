@@ -8,7 +8,7 @@ https://swapi.dev/
 ## Para iniciar el proyecto:
 
 Por favor trasladarse al directorio de la app:
-- cd startwars-app
+- cd starwars-app
 Instalar las dependencias con:
 - npm install
 Iniciar el proyecto con:
