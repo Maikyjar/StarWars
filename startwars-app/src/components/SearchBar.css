@@ -1,0 +1,21 @@
+.input {
+    background-color: white;
+    border-radius: 5px;
+}
+
+.btn-search {
+    background-color: transparent;
+    color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 32px;
+    padding: 0.075rem;
+    left: 40px;
+}
+
+.btn-search:hover {
+    background-color: gray;
+    border: 2px solid yellowgreen;
+    color: yellowgreen;
+    transform: translateY(-3px);
+}
